@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-char* ssid = "Nokia 5";
-const char* password = "";
+const char* ssid = "Nokia 5";
+const char* password = "12345678";
 
 WiFiServer server(80);
 
