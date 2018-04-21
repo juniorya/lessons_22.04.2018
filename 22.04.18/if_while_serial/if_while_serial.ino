@@ -1,5 +1,5 @@
 
-int LED = 1;
+int LED = 22;
 void setup() {
   Serial.begin(115200);                 //Начинаем передачу на скорости 115200
   pinMode(LED, OUTPUT);                 //№ ножки к которой подключен диод и выход
