@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-char* ssid = "Nokia 5";
-const char* password = "12345678";
+const char* ssid = "MGTS_GPON_6370";
+const char* password = "CAP5NMR5";
 
 WiFiServer server(80);
 
@@ -9,8 +9,8 @@ void setup()
 {
   Serial.begin(115200);
   pinMode(5, OUTPUT);      // set the LED pin mode
-//  pinMode(18, OUTPUT);      // set the LED pin mode
-//  pinMode(22, OUTPUT);      // set the LED pin mode
+  pinMode(18, OUTPUT);      // set the LED pin mode
+  //  pinMode(22, OUTPUT);      // set the LED pin mode
 
   delay(10);
 
