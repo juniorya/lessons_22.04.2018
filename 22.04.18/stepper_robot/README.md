@@ -5,4 +5,5 @@
 ![alt text](http://robotclass.ru/wp-content/uploads/2015/03/28byj48_c.gif)
 ![alt text](http://robotclass.ru/wp-content/uploads/2015/03/28byj48_f.gif)
 ![alt text](http://robotclass.ru/wp-content/uploads/2015/03/windings.jpg)
+![alt text](http://robotclass.ru/wp-content/uploads/2015/03/stepper_схема-1.png)
 ![alt text](http://robotclass.ru/wp-content/uploads/2015/03/stepper_bb-1.png)
