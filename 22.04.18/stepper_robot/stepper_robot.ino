@@ -1,21 +1,21 @@
-int in1 = 2;
-int in2 = 3;
-int in3 = 4;
-int in4 = 5;
-const int dl = 5;
+int in1 = 2;                       //Ножки Arduino к которым подключены выводы драйвера 
+int in2 = 3;                       //
+int in3 = 4;                       //
+int in4 = 5;                       //
+const int dl = 5;                  //задержка
 
 void setup() {
-    pinMode(in1, OUTPUT);
-    pinMode(in2, OUTPUT);
-    pinMode(in3, OUTPUT);
-    pinMode(in4, OUTPUT);
+    pinMode(in1, OUTPUT);          //настраиваем ножки на выход
+    pinMode(in2, OUTPUT);          //
+    pinMode(in3, OUTPUT);          //
+    pinMode(in4, OUTPUT);          //
 }
 
 void loop() {
-    digitalWrite( in1, HIGH ); 
-    digitalWrite( in2, HIGH ); 
-    digitalWrite( in3, LOW ); 
-    digitalWrite( in4, LOW );
+    digitalWrite( in1, HIGH );     //ВКЛ
+    digitalWrite( in2, HIGH );     //ВКЛ
+    digitalWrite( in3, LOW );      //ВЫКЛ
+    digitalWrite( in4, LOW );      //ВЫКЛ
     delay(dl);
 
     digitalWrite( in1, LOW ); 
