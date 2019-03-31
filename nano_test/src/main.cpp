@@ -15,6 +15,6 @@ void loop(){
     delay(100);
   }
   exit(0);*/
-Serial.println("|-|");
-delay(1000);
+  Serial.println("poshiekotat_moty");
+  delay(10000);
 }
