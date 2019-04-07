@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "led_serial",
+			"path": "led_serial"
+		},
+		{
+			"name": "31.03.19",
+			"path": "31.03.19\\31.03.19"
+		},
+		{
+			"name": "nano_test",
+			"path": "nano_test"
+		},
+		{
+			"name": "attiny",
+			"path": "attiny"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "D:\\PCB\\.platformio\\penv\\Scripts;D:\\PCB\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;D:\\myProg\\python\\Scripts\\;D:\\myProg\\python\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility;D:\\Program Files\\PuTTY\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\dotnet\\;C:\\Users\\mgoly\\AppData\\Local\\GitHubDesktop\\app-1.6.2\\resources\\app\\git\\cmd;C:\\Users\\mgoly\\AppData\\Local\\Microsoft\\WindowsApps;D:\\myProg\\Microsoft VS Code\\bin;D:\\intelFPGA_lite\\18.1\\modelsim_ase\\win32aloem;C:\\Users\\mgoly\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;D:\\myProg\\python\\Scripts\\;D:\\myProg\\python\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility;D:\\Program Files\\PuTTY\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\dotnet\\;C:\\Users\\mgoly\\AppData\\Local\\GitHubDesktop\\app-1.6.2\\resources\\app\\git\\cmd;C:\\Users\\mgoly\\AppData\\Local\\Microsoft\\WindowsApps;D:\\myProg\\Microsoft VS Code\\bin;D:\\intelFPGA_lite\\18.1\\modelsim_ase\\win32aloem;C:\\Users\\mgoly\\AppData\\Local\\GitHubDesktop\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		},
+		"files.associations": {
+			"core_version.h": "c"
+		}
+	}
+}
